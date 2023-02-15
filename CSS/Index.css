@@ -1,0 +1,137 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    
+}
+.icon{
+    margin-top: 20px;
+}
+.icon div{
+    width: 20px;
+    height: 3px;
+    background-color: black;
+    margin: 4px 0 0 20px;
+}
+.icon img{
+    width: 100px;
+    height: 60px;
+    margin-left: 60px;
+    margin-top: -44px;
+}
+
+/*Search*/
+.search{
+    margin-top: -3.5%;
+    margin-left: 35%;
+    border: 10px;
+}
+.search input[type=text] {
+    padding: 6px 100px;
+    text-align: left;
+    font-size: 17px;
+    border: none;
+    background-color: rgb(182, 182, 182);
+    border-top-left-radius : 20px;
+    border-bottom-left-radius : 20px;
+}
+.search button {
+    margin-left: -5px;
+    padding: 6px 20px;
+    background: #636363;
+    font-size: 17px;
+    cursor: pointer;
+    border: none;
+    border-top-right-radius : 20px;
+    border-bottom-right-radius : 20px;
+}
+.mic{
+    width: 30px;
+    height: 34px;
+    margin-top: -4%;
+    margin-left: 55%;
+    padding: 3px 8px 1px;
+    font-size: larger;
+    border-radius: 20px;
+    background-color: #636363;
+    color: #fff;
+}
+
+/*section*/
+.bon{
+	background-color: #fff;
+    overflow-x:hidden;
+}
+.nav-item a{
+	color: #150907;
+	font-family: 'Nunito Sans', sans-serif;
+	font-weight: 300;
+    margin-left: 2px;
+}
+.nav-item a:hover{
+	font-weight: 500;
+	color: #141414;
+	background-color: #636363;
+}
+.nav-item a:visited{
+	color: black;
+}
+.nav-item i{
+    font-size: larger;
+    margin-right: 5px;
+}
+.nav-item img{
+    width: 13%;
+    margin-left: -4px;
+}
+.bon hr{
+    width: 16%;
+}
+
+
+
+/*Pic*/
+.card1{
+    margin:-14% 0 0 16%;
+}
+.card2{
+    margin: -21.2% 0 0 36.5%;
+}
+.card3{
+    margin-left: 57.5%;
+    margin-top: -20.9%;
+}
+.card4{
+    margin-left: 79%;
+    margin-top: -20.8%;
+    margin-bottom: 19%;
+}
+.card5{
+    margin-left: 16%;
+    margin-top: -39.7%;
+}
+.card6{
+    margin-left: 36.5%;
+    margin-top: -22%;
+}
+.card7{
+    margin-left: 57.5%;
+    margin-top: -20.5%;
+}
+.row hr{
+    width: 80%;
+    margin-left: 16.8%;
+}
+
+
+.short{
+    margin-left: 16.5%;
+}
+
+
+.nav-kinds .next_icon:hover{
+	background-color: #333333;
+}
+.nav-kinds{
+	margin-left: 16%;
+}
